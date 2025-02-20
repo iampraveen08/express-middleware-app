@@ -1,0 +1,9 @@
+
+
+
+
+Summary
+Middleware functions execute in order before reaching the final route handler.
+Logger Middleware logs request details.
+Timestamp Middleware adds a timestamp to the request.
+The route handler sends a response containing the timestamp.
